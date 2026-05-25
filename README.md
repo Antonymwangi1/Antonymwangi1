@@ -47,15 +47,6 @@ A multi tenant API marketplace with JWT authentication (refresh token rotation),
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antonymwangi1&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="Antony's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonymwangi1&layout=compact&theme=default&hide_border=true" height="160" alt="Top languages" />
-</p>
-
----
-
 ## A bit more
 
 - 🇰🇪 Building from Nairobi for the Kenyan market and beyond
