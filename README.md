@@ -1,6 +1,6 @@
 # Hey, I'm Antony 👋
 
-Full-stack developer based in Nairobi, Kenya. I build SaaS products and tools for real problems — not tutorial clones.
+Fullstack developer. I build SaaS products and tools for real problems not tutorial clones.
 
 Currently shipping **Duka Manager**, a POS and inventory system for small Kenyan shops, and building its React Native companion app. I also help content creators establish their brand presence through professional media kits.
 
@@ -34,14 +34,14 @@ Currently shipping **Duka Manager**, a POS and inventory system for small Kenyan
 ## Projects
 
 ### 🛒 [Duka Manager](https://github.com/Antonymwangi1/duka)
-A full-stack POS and inventory management system built specifically for small Kenyan shops (dukas). Role-based access control, sales reports with Recharts, staff management, and a real-time dashboard — built from firsthand experience running a duka.
+A fullstack POS and inventory management system built specifically for small Kenyan shops (dukas). Role based access control, sales reports with Recharts, staff management, and a real time dashboard built from firsthand experience running a duka.
 
 `Next.js` `Prisma` `PostgreSQL` `Recharts` `Zustand`
 
 ---
 
 ### ⚡ DevLink
-A multi-tenant API marketplace with JWT authentication (refresh token rotation), Redis rate limiting, Stripe billing, and an analytics dashboard. Backend on Railway, frontend on Vercel.
+A multi tenant API marketplace with JWT authentication (refresh token rotation), Redis rate limiting, Stripe billing, and an analytics dashboard. Backend on Railway, frontend on Vercel.
 
 `Node.js` `Express` `Next.js 15` `Redis` `Stripe`
 
@@ -58,7 +58,7 @@ A multi-tenant API marketplace with JWT authentication (refresh token rotation),
 
 ## A bit more
 
-- 🇰🇪 Building from Nairobi — for the Kenyan market and beyond
+- 🇰🇪 Building from Nairobi for the Kenyan market and beyond
 - 📱 Currently learning mobile development (React Native/Expo)
 - 🧠 I care about understanding *why* things work, not just making them work
 - 💼 Open to freelance work and interesting collaborations
@@ -67,5 +67,5 @@ A multi-tenant API marketplace with JWT authentication (refresh token rotation),
 
 ## Get in touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/antonymwangi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/antonymwangi_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:antonymwangi137@gmail.com)
