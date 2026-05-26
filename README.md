@@ -40,7 +40,7 @@ A fullstack POS and inventory management system built specifically for small Ken
 
 ---
 
-### ⚡ DevLink
+### ⚡ [DevLink](https://github.com/Antonymwangi1/devlink)
 A multi tenant API marketplace with JWT authentication (refresh token rotation), Redis rate limiting, Stripe billing, and an analytics dashboard. Backend on Railway, frontend on Vercel.
 
 `Node.js` `Express` `Next.js 15` `Redis` `Stripe`
