@@ -33,17 +33,17 @@ Currently shipping **Duka Manager**, a POS and inventory system for small Kenyan
 
 ## Projects
 
-### 🛒 [Duka Manager](https://github.com/Antonymwangi1/duka)
-A fullstack POS and inventory management system built specifically for small Kenyan shops (dukas). Role based access control, sales reports with Recharts, staff management, and a real time dashboard built from firsthand experience running a duka.
+### 🛒 [Duka Manager](https://github.com/Antonymwangi1/duka-backend)
+Duka is a simple POS and Inventory management system, and sales tracker system designed for local shops in Kenya. It gives shop owners and staff real time visibility of stock, sales and profit without needing accounting knowledge.
 
-`Next.js` `Prisma` `PostgreSQL` `Recharts` `Zustand`
+`Node.js/Express.js` `Prisma` `PostgreSQL` `Redis`
 
 ---
 
-### ⚡ [DevLink](https://github.com/Antonymwangi1/devlink)
-A multi tenant API marketplace with JWT authentication (refresh token rotation), Redis rate limiting, Stripe billing, and an analytics dashboard. Backend on Railway, frontend on Vercel.
+### ⚡ [Budget](https://github.com/Antonymwangi1/budget-v2)
+A modern, production quality personal finance web app built with Next.js 16, Prisma, and Clerk. Track budgets, monitor spending, and understand your financial habits without the complexity of enterprise software.
 
-`Node.js` `Express` `Next.js 15` `Redis` `Stripe`
+`Next.js` `Prisma` `PostgreSQL` `Clerk`
 
 ---
 
