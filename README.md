@@ -19,8 +19,8 @@ The goal is simple: give shop owners a practical way to manage sales, inventory,
 **Stack:** TypeScript · Node.js · Express · Prisma · PostgreSQL · Redis
 
 **View the project⁠** 
-[Duka frontend](https://github.com/Antonymwangi1/duka-frontend)
-[Duka backend ](https://github.com/Antonymwangi1/duka-backend)
+- [Dukafrontend](https://github.com/Antonymwangi1/duka-frontend)
+- [Duka backend ](https://github.com/Antonymwangi1/duka-backend)
 
 #### 💰 Budget
 
