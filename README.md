@@ -62,12 +62,12 @@ React Native Expo, System Design
 
 ### Currently
 
-🔨 Building Duka Manager
-📱 Learning React Native
-🐍 Expanding my backend skills with Python & FastAPI
-🧠 Deepening my understanding of  system design
+- 🔨 Building Duka Manager
+- 📱 Learning React Native
+- 🐍 Expanding my backend skills with Python & FastAPI
+- 🧠 Deepening my understanding of  system design
 
 ### Let's Connect 
 
-antonymwangi137@gmail.com
-[LinkedIn](https://www.linkedin.com/in/antony-mwangi-04138b227?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- antonymwangi137@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/antony-mwangi-04138b227?utm_source=share_via&utm_content=profile&utm_medium=member_android)
