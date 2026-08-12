@@ -1,62 +1,73 @@
-# Hey, I'm Antony 👋
+# Antony Mwangi 👋
+## Software Developer · Fullstack Web · Backend · Systems 
 
-Fullstack developer. I build SaaS products and tools for real problems not tutorial clones.
+I build software to solve real world problems.
+Currently focused on TypeScript, Node.js, PostgreSQL, and Next.js, while expanding into Python/FastAPI and React Native.
 
-Currently shipping **Duka Manager**, a POS and inventory system for small Kenyan shops, and building its React Native companion app. I also help content creators establish their brand presence through professional media kits.
+My main project is **Duka** a POS, inventory, and sales management system designed around the needs of small businesses in Kenya.
 
----
+I care about understanding how systems work under the hood, not just getting code to work.
 
-## What I'm working with
+### What I'm Building
 
-**Core stack**
+#### 🛒 Duka Manager
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+A POS and inventory management platform designed for small shops.
 
-**Expanding into**
+The goal is simple: give shop owners a practical way to manage sales, inventory, staff, and business performance without the complexity of traditional business software.
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+**Stack:** TypeScript · Node.js · Express · Prisma · PostgreSQL · Redis
 
-**Infrastructure**
+**View the project⁠** 
+[Duka frontend](https://github.com/Antonymwangi1/duka-frontend)
+[Duka backend ](https://github.com/Antonymwangi1/duka-backend)
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+#### 💰 Budget
 
----
+A personal finance application focused on making budgeting and spending tracking simple.
 
-## Projects
+**Stack**: Next.js · TypeScript · Prisma · PostgreSQL
 
-### 🛒 [Duka Manager](https://github.com/Antonymwangi1/duka-backend)
-Duka is a simple POS and Inventory management system, and sales tracker system designed for local shops in Kenya. It gives shop owners and staff real time visibility of stock, sales and profit without needing accounting knowledge.
+[Budget V2](https://github.com/Antonymwangi1/budget-v2)
 
-`Node.js/Express.js` `Prisma` `PostgreSQL` `Redis`
+### 🧰 Tech I Use
 
----
+#### Languages
 
-### ⚡ [Budget](https://github.com/Antonymwangi1/budget-v2)
-A modern, production quality personal finance web app built with Next.js 16, Prisma, and Clerk. Track budgets, monitor spending, and understand your financial habits without the complexity of enterprise software.
+TypeScript, JavaScript, Python, SQL
 
-`Next.js` `Prisma` `PostgreSQL` `Clerk`
+#### Frontend
 
----
+Next.js, React, Tailwind CSS
 
-## A bit more
+#### Backend
 
-- 🇰🇪 Building from Nairobi for the Kenyan market and beyond
-- 📱 Currently learning mobile development (React Native/Expo)
-- 🧠 I care about understanding *why* things work, not just making them work
-- 💼 Open to freelance work and interesting collaborations
+Node.js, Express.js, FastAPI
 
----
+#### Data
 
-## Get in touch
+PostgreSQL, Prisma, Redis
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/antonymwangi_)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:antonymwangi137@gmail.com)
+### Currently learning
+
+React Native Expo, System Design
+
+### 🧠 How I Approach Development
+
+- Build projects around real problems
+- Understand the fundamentals behind the tools I use
+- Think about architecture, security, scalability, and maintainability
+- Prefer simple systems that solve the problem well
+- Learn by building, breaking, debugging, and rebuilding
+
+### Currently
+
+🔨 Building Duka Manager
+📱 Learning React Native
+🐍 Expanding my backend skills with Python & FastAPI
+🧠 Deepening my understanding of  system design
+
+### Let's Connect 
+
+antonymwangi137@gmail.com
+[LinkedIn](https://www.linkedin.com/in/antony-mwangi-04138b227?utm_source=share_via&utm_content=profile&utm_medium=member_android)
